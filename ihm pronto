@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> PriscilaKw </title>
+</head>
+
+<body>
+
+<nav>
+<a href="#"> Priscila Kwiatkowski da Silva</a>
+<ul>
+<li> <a href="#sobre"> SOBRE </a> </li>
+<li> <a href="#dicas"> EXPERIÊNCIA PROFISSIONAL </a> </li>
+<li> <a href="#textos"> TEXTOS </a> </li>
+<li> <a href="#blog"> MEU BLOG </a> </li>
+<li> <a href="#contato"> CONTATO </a> </li>
+</ul>
+</nav>
+
+<header>
+<h1> Priscila Kwiatkowski da Silva </h1>
+<p> Programadora </p>
+<a href="#sobre"> Ver mais </a>
+</header>
+
+<section id="sobre">
+<h2> SOBRE </h2>
+<p> Cursando Tecnologia em Sistemas de Informação pela FAETERJ.
+
+Interessada em atuar na área de tecnologia da informação, buscando agregar conhecimentos tecnológicos e 
+visando meu crescimento profissional juntamente com a empresa.
+
+Possuo conhecimentos nas áreas de linguagens de programação, banco de dados, Visual Basic, MySQL, PHP, HTML,C#, Visual Studio, 
+JQuery, JavaScript, redes, suporte e toda a rotina de uma instituição.
+ </p>
+<a href="#contato"> Entre em contato </a>
+</section>
+
+<section id="dicas">
+<h2> Experiência profissional </h2>
+<div> 
+<img>
+<h3> TENTI </h3>
+<p> Estágio temporário em desenvolvimento Front-End;
+
+Programação em linguagem C# e HTML.
+ </p>
+</div>
+<div> 
+<img>
+<h3> MLS Wireless S.A. </h3>
+<p> Estágio em Suporte.
+
+Atendimento ao cliente; Abertura de chamados; Apoio ao suporte técnico; Monitoramento de rede e toda rotina de suporte nível 1.
+ </p>
+</div>
+<div> 
+<img>
+<h3> Agência Nacional de Aviação Civil </h3>
+<p> Estágio em TI.
+
+Apoio administrativo; Atendimento ao cliente; Apoio ao suporte técnico; Documentação de processos e serviços de TI.
+ </p>
+</div>
+<div> 
+<img>
+<h3> Prepara Cursos Nova Iguaçu </h3>
+<p> Recepcionista.
+
+Atendimento ao público; Pacote Office; Atendimento telefônico; Controle de caixa; Esclarecer dúvidas sobre a empresa; 
+Enviar e receber documentos ou mercadorias.
+ </p>
+</div>
+</section>
+
+<section id="textos"> 
+<h2>TEXTOS</h2>
+<div>
+<h3> Cursos Extracurriculares Realizados</h3>
+<p>
+Fundamentos de Rede; 
+Inglês Básico; 
+Modelagem de Dados; 
+Espanhol Básico; 
+Oficina de Montagem de Computadores;
+ </p>
+</div>
+<div>
+<img>
+</div>
+<div>
+<img>
+</div>
+<div>
+<img>
+</div>
+<div>
+<img>
+</div>
+<div>
+<img>
+</div>
+</section>
+
+<section id="blog">
+<h2> MEU BLOG </h2>  
+<p> Acesse meu blog</p>
+
+<p> <a>Fique por dentro de algumas dicas</a> </p>
+
+</section>
+
+<section id="contato">
+<h2> CONTATO </h2>  
+<p> Entre em contato comigo:</p>
+<div>
+<img>
+<p> <a href="tel:21976713665">(21)976713665</a></p>
+</div>
+
+<div>
+<imag>
+<p> <a> priscila.kw2@hotmail.com</a> </p>
+ </div>
+</section>
+
+<footer> 
+<p> Por Priscila </p>
+</footer>
+
+</body>
+</html>
